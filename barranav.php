@@ -1,7 +1,7 @@
 <div class="pos-f-t">
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-dark p-4">
-      <h5 class="text-white h4">NOMBRE DE LA EMPRESA</h5>
+      <h5 class="text-white h4">NOMBRE DE LA EMPRESA, los darwins</h5>
       
       
      <a class="nav-link" href="about.php">A cerca de</a> 
